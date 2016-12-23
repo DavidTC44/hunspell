@@ -1,0 +1,5 @@
+I am trying to discover whether anybody has devized a means of editing Hunspell dictionaries. In particular, it is used in Pegasus PMAIL, and over time spurious rubbish gets in to the dictionary, misspells and typos.
+Also, Hunspell seems to have a problem with apostropies. I have specifically added items like " David's" many times, and yet it still trows it up as a mispell.
+I am very keen to find solutions to both of these problems.
+
+David A Tarbox-Cooper, CEng, MBCS, CITP
